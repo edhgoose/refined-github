@@ -6,6 +6,9 @@
     "xo": "*"
   },
   "xo": {
+    "rules": {
+      "no-alert": 0
+    },
     "envs": [
       "browser",
       "jquery"
